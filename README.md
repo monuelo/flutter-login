@@ -1,4 +1,4 @@
-# login_example
+# Flutter Login Example
 
 A new Flutter project.
 
